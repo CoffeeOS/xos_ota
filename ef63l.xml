@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download xOS builds">https://get.xos.vn/</RomUrl>
+                description="Download latest OS builds">http://googledrive.com/host/0BwINna6tvdfoVVBmMnR5WTczT2s/xOS-1.4-BETA-09082016-ef63l.zip</RomUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
