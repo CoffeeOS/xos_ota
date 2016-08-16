@@ -7,10 +7,18 @@
                 id="rom"
                 title="Rom"
                 description="Download latest OS builds">http://googledrive.com/host/0BwINna6tvdfoVVBmMnR5WTczT2s/xOS-1.5-STABLE-16082016-ef63l.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download xOS changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <XDAUrl
+                id="xOS"
+                title="TekCafe Forum - xOS"
+                description="Visit xOS thread">https://www.tekcafe.vn/threads/xos-phien-ban-1-4-cho-vega-iron-2-im-a910s-l-k-ss-sl-android-6-0-1-marshmallow.2594/</XDAUrl>	
 	</ef63l>
     </Stable>
 </SlimOTA>
