@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ef63l>
-            <Filename>xOS-1.5-STABLE-18082016-ef63l</Filename>
+            <Filename>xOS-1.6-STABLE-18082016-ef63l</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
